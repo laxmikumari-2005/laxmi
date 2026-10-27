@@ -36,7 +36,7 @@ revisonQueries.sql	Revision	Quick recap: create student table, insert rows, drop
 
 5.Sorting: ORDER BY with ASC / DESC, multi-column sorting
 
-6.Aggregation: SUM, AVG, COUNT, GROUP BY, HAVING
+6.Aggregation: SUM, AVG, COUNT, GROUP BY, HAVING,JOIN
 
 Result shaping: DISTINCT, TOP
 
